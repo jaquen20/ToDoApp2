@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="todo">TODO</string>
+    <string name="login">login</string>
+    <string name="user">Email\n</string>
+    <string name="pass">password</string>
+    <string name="login2">login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="email">Email</string>
+    <string name="email2">confirm password</string>
+    <string name="create_account">create Account</string>
+
+</resources>
